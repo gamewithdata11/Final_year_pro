@@ -1,0 +1,13 @@
+numpy
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+pydantic
+pypdf
+sentence-transformers
+faiss-cpu
+ollama
+pwdlib[argon2]
+python-jose[cryptography]
+email-validator
